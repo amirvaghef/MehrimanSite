@@ -1,0 +1,5 @@
+G:\Own Program\Mehriman\MehrimanSite\ckfinder\_source\bin\Debug\CKFinder.dll
+G:\Own Program\Mehriman\MehrimanSite\ckfinder\_source\bin\Debug\CKFinder.pdb
+G:\Own Program\Mehriman\MehrimanSite\ckfinder\_source\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\Mehriman\MehrimanSite\ckfinder\_source\obj\Debug\CKFinder.dll
+G:\Own Program\Mehriman\MehrimanSite\ckfinder\_source\obj\Debug\CKFinder.pdb
